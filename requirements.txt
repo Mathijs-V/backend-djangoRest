@@ -4,7 +4,7 @@ dj-database-url>=2,<3
 whitenoise[brotli]>=6,<7
 djangorestframework>=3.12,<3.13
 djangorestframework-simplejwt>=4.6,<4.7
-django-cors-headers>=3.10,<3.11
+django-cors-headers>=4.4.0,<4.5
 requests
 # PostgreSQL support
 psycopg2>=2.8,<3
